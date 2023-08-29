@@ -4,13 +4,13 @@ fn main() {
     
     //itarate by adding new row
     for i in 1..=row {
-      
-      //Adding spaces
+
+      //printing spaces
       for _ in 0..=row - i {
         print!(" ");
       }
 
-      //Adding stars
+      //printing stars
       for _ in 0..i {
         print!("* ");
       }
