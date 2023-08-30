@@ -29,5 +29,5 @@ fn main() {
     // star_patterns::pyramid4();
     // star_patterns::pyramid5();
     // star_patterns::pyramid6();
-    star_patterns::pyramid1();
+    // star_patterns::pyramid1();
 }
